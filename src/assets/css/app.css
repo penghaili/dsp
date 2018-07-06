@@ -1,0 +1,15 @@
+.app,.wrap{
+    height:100%;
+}
+.aside,.content{
+    height:100%;
+    float: left;
+}
+.aside{
+    width:25%;
+    display: flex;
+}
+.content{
+    background:rgb(246, 245, 245);
+    width:75%;
+}
